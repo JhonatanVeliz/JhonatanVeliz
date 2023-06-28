@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Veliz</h1>
 <h3 align="center">A passionate frontend developer from Guatemala.</h3>
 
-<h3 align="left">Connect with me:</h3>
+### :space_invader: &nbsp;About Me
+
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;I am currently working on improving my skills and soft skills \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;I like learning and innovation. \
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about solving new problems and learning from them.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;I'm learning more about backend development with Java\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Every day I wake up with the thought that I must be only 1% better than yesterday.
+
 <p align="center">
   <a href="mailto:jhonatanveliz74@gmail.com?subject=Olá%Jhonatan%Veliz"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/search/top/?q=Josu%C3%A9%20V%C3%A1squez"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -9,6 +16,7 @@
   <a href="https://www.linkedin.com/in/jhonatan-v%C3%A9liz-1a73a9271/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<hr/>
 
 <details>
   <summary><b>:brain: &nbsp;Skills</b></summary>
