@@ -6,7 +6,7 @@
   <a href="mailto:jhonatanveliz74@gmail.com?subject=Olá%Jhonatan%Veliz"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/search/top/?q=Josu%C3%A9%20V%C3%A1squez"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/jhonatanveliz19/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jhonatan-v%C3%A9liz-1a73a9271/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
