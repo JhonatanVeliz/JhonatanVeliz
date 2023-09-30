@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Veliz</h1>
-<h3 align="center">A passionate frontend developer from Guatemala.</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 ### :space_invader: &nbsp;About Me
 
